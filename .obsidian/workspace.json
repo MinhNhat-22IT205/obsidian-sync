@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "364c53d50eb329e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20cef99b3bd3181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deaff391ca43a24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication/On a Date.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "On a Date"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0501431aaea04103",
+    "type": "split",
+    "children": [
+      {
+        "id": "53fe7fff2e9a997d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c900dec0efe85fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e105f5e569b0a45b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e50afee0d14f1e97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "abe2677c7850c93b",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ccf292d408e5d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261faa720e1d7e17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learncantrill - SAA course/AWS Account.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AWS Account"
+            }
+          },
+          {
+            "id": "cb4586c7d597a145",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "learncantrill - SAA course/AWS Account.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AWS Account"
+            }
+          },
+          {
+            "id": "08c6e2aa80c875f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c51641633aa1d914",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a80180eec8082ecb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learncantrill - SAA course/AWS Account.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AWS Account"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "deaff391ca43a24c",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Obsidian Synsc/With github.md",
+    "Communication/On a Date.md",
+    "Obsidian Synsc",
+    "Pasted image 20260201104801.png",
+    "Pasted image 20260201104319.png",
+    "Pasted image 20260201101702.png",
+    "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
+    "Communication",
+    "Pasted image 20260131093202.png",
+    "Pasted image 20260131093130.png",
+    "Pasted image 20260131090340.png",
+    "Pasted image 20260131090301.png",
+    "Pasted image 20260131082246.png",
+    "learncantrill - SAA course/AWS Fundamentals.md",
+    "Pasted image 20260129153908.png",
+    "Pasted image 20260130212109.png",
+    "learncantrill - SAA course/AWS Account.md",
+    "UXUI/User requirement analysis.md",
+    "UXUI",
+    "learncantrill - SAA course",
+    "create a link.md",
+    "Welcome.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2026-01-23.md"
+  ]
+}
