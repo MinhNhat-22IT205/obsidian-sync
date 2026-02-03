@@ -12,7 +12,7 @@ In case there are multiple policy definition, AWS sum them all to evaluate
 		-> Should be first consider
 
 ### 2. IAM Users and ARNs
-#### When do you pick IAM User?
+#### When should you pick IAM User?
 -> when you can identity a **single individual** or **'a named thing'** which will use that identity - a person, an application or a service account.
 
 ![[Pasted image 20260131082246.png]]
@@ -23,7 +23,8 @@ It is *how a resource in AWS is identified*.
 Ex:
 ![[Pasted image 20260131090340.png]]
 * partition: 'aws' or 'aws-cn' (for china aws)
-#### Facts:
+
+*Facts:*
 ![[Pasted image 20260131093202.png]]
 So beware in situations like:
 + Internet-scale application
