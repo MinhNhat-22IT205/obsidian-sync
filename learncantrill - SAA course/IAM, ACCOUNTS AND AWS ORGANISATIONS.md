@@ -41,3 +41,5 @@ Nothing special
 
 ##### WHen to use?
 * For AWS service - Lambda
+* Emergency Role 
+* 
