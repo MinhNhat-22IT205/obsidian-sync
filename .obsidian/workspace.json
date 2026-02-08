@@ -25,12 +25,14 @@
             "id": "ae1ef21eda5ff7f9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "IAM, ACCOUNTS AND AWS ORGANISATIONS"
             }
           }
         ],

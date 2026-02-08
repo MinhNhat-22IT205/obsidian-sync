@@ -37,4 +37,7 @@ Simply just a cotainer of IAM Users
 For applying permission to it only
 Nothing special
 
-### 4. 
+### 4. IAM Roles
+
+##### WHen to use?
+* For AWS service - Lambda
