@@ -1,0 +1,19 @@
+filters:
+  and:
+    - "!share_link.isEmpty()"
+formulas:
+  Shared on: share_updated.format("YYYY MMM D")
+  Encrypt: if(share_link.contains("#"), "🔒", "")
+  Share link: link(share_link,share_link.split("#")[0].split("/")[share_link.split("#")[0].split("/").length - 1])
+  Note: link(file.path, file.name)
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Shared on
+      - formula.Share link
+      - formula.Encrypt
+      - formula.Note
+    sort:
+      - property: formula.Shared on
+        direction: DESC

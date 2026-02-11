@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/8oe7rcon#k7gOaqCMLMCEiqaorfpoUubLpZtjVZuCqS0NTFoEwAo
+share_updated: 2026-02-11T13:11:50+07:00
+---
 ### 1. Identity (IAM User, Group, Role) Policies
 + Piorities:
 ***Deny alway wins***
