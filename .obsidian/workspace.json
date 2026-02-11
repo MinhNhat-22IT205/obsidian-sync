@@ -11,13 +11,10 @@
             "id": "ae1ef21eda5ff7f9",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "All shared notes using Share-Note.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "All shared notes using Share-Note"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -178,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +191,13 @@
   },
   "active": "ae1ef21eda5ff7f9",
   "lastOpenFiles": [
+    "Helpers/git.md",
+    "All shared notes using Share-Note.base",
     "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
     "2026-02-11.md",
     "Obsidian Synsc/With github.md",
-    "Helpers/git.md",
     "Communication/On a Datee.md",
     "Helpers",
-    "All shared notes using Share-Note.base",
     "Obsidian Synsc",
     "Pasted image 20260201104801.png",
     "Pasted image 20260201104319.png",
