@@ -33,7 +33,7 @@ So beware in situations like:
 
 ### 3. IAM Groups
 
-Simply just a cotainer of IAM Users
+Simply just a container of IAM Users
 For applying permission to it only
 Nothing special
 
@@ -42,4 +42,3 @@ Nothing special
 ##### WHen to use?
 * For AWS service - Lambda
 * Emergency Role 
-* 
