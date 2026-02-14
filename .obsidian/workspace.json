@@ -11,10 +11,14 @@
             "id": "ae1ef21eda5ff7f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DACN3/MVP1 - Q&A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MVP1 - Q&A"
             }
           }
         ]
@@ -191,6 +195,9 @@
   },
   "active": "ae1ef21eda5ff7f9",
   "lastOpenFiles": [
+    "Pasted image 20260214175712.png",
+    "DACN3/MVP1 - Q&A.md",
+    "DACN3",
     "Helpers/git.md",
     "All shared notes using Share-Note.base",
     "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
