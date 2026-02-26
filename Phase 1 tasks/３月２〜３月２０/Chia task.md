@@ -1604,7 +1604,7 @@
 
 **Đầu ra**
 
-- Quyết định công cụ + lý do chọn
+- Quyết định công cụ + Điểm mạnh/ yếu + lý do chọn
     
 
 **Done khi**
