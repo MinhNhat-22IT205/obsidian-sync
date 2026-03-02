@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "On a Datee"
             }
+          },
+          {
+            "id": "c753263e6b1b7a95",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae1ef21eda5ff7f9",
+  "active": "c753263e6b1b7a95",
   "lastOpenFiles": [
     "learncantrill - SAA course/AWS Fundamentals.md",
     "Phase 1 tasks/３月２〜３月２０/Chia task.md",
