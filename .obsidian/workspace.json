@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "言葉/T6_200326.md",
+                "file": "Phase 1 tasks/基本設計/chia task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T6_200326"
+              "title": "chia task"
             }
           }
         ],
@@ -211,8 +211,10 @@
   },
   "active": "c753263e6b1b7a95",
   "lastOpenFiles": [
-    "DACN3/MVP1 - Q&A.md",
     "言葉/T6_200326.md",
+    "Phase 1 tasks/基本設計/chia task.md",
+    "Phase 1 tasks/基本設計",
+    "DACN3/MVP1 - Q&A.md",
     "言葉",
     "Phase 1 tasks/３月２〜３月２０/Chia task.md",
     "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
@@ -241,7 +243,6 @@
     "learncantrill - SAA course/AWS Account.md",
     "UXUI/User requirement analysis.md",
     "UXUI",
-    "learncantrill - SAA course",
     "create a link.md",
     "Welcome.md",
     "Untitled 1.canvas",
