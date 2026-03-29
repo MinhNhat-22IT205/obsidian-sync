@@ -53,12 +53,14 @@
             "id": "5f90304fdbb6d7f9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "言葉/CN_29-03-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "CN_29-03-2026"
             }
           }
         ],
@@ -237,12 +239,13 @@
   },
   "active": "5f90304fdbb6d7f9",
   "lastOpenFiles": [
+    "言葉/T6_200326.md",
+    "言葉/CN_29-03-2026.md",
     "Pasted image 20260326163840.png",
     "Pasted image 20260326163828.png",
     "Pasted image 20260326163658.png",
     "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
     "日本語勉強結果.md",
-    "言葉/T6_200326.md",
     "Phase 1 tasks/基本設計/chia task.md",
     "Phase 1 tasks/基本設計",
     "DACN3/MVP1 - Q&A.md",
@@ -267,7 +270,6 @@
     "Pasted image 20260131093202.png",
     "Pasted image 20260131093130.png",
     "Pasted image 20260131090340.png",
-    "Pasted image 20260131090301.png",
     "learncantrill - SAA course/AWS Account.md",
     "UXUI/User requirement analysis.md",
     "UXUI",
