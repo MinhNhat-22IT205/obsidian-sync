@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "言葉/02-04-2026.md",
+                "file": "Phase 1 tasks/Branch strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-04-2026"
+              "title": "Branch strategy"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "5f90304fdbb6d7f9",
   "lastOpenFiles": [
-    "言葉/T3_31-03-2026.md",
     "言葉/02-04-2026.md",
+    "Phase 1 tasks/Branch strategy.md",
+    "言葉/T3_31-03-2026.md",
     "言葉/T6_200326.md",
     "言葉/CN_29-03-2026.md",
     "言葉/T2_30-03-2026.md",
