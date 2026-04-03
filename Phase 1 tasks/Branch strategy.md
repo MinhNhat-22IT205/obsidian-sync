@@ -4,6 +4,7 @@
 | **develop**   | Code tích hợp cho môi trường dev | Tất cả developer   | Từ `main` (ban đầu) | `release`                         | Bắt buộc MR                 | Tích hợp feature                | Không deploy production              |
 | **feature/*** | Phát triển tính năng riêng lẻ    | Developer          | Từ `develop`        | `develop`                         | Bắt buộc MR                 | Code, test unit                 | 1 feature = 1 branch                 |
 | **release/*** | Chuẩn bị release                 | Dev + QA + DevOps  | Từ `develop`        | `main` + `develop`                | Bắt buộc MR                 | Test, fix bug, chuẩn bị release | Không thêm feature mới               |
+| **hotfix/***  | Sửa lỗi khẩn cấp production      | Dev/DevOps         | Từ `main`           | `main` + `develop` + `release`    | Bắt buộc                    | Fix bug gấp                     | Dùng khi production bị lỗi           |
 # 🔄 Flow hoạt động (dễ hiểu)
 
 ### 1. Phát triển
