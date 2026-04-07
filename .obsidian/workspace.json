@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phase 1 tasks/Branch strategy.md",
+                "file": "言葉/CN_29-03-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branch strategy"
+              "title": "CN_29-03-2026"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "abe2677c7850c93b",
@@ -197,13 +196,13 @@
   },
   "active": "5f90304fdbb6d7f9",
   "lastOpenFiles": [
-    "Phase 1 tasks/基本設計/chia task.md",
-    "Phase 1 tasks/Branch strategy.md",
     "言葉/02-04-2026.md",
-    "言葉/T3_31-03-2026.md",
-    "言葉/T6_200326.md",
     "言葉/CN_29-03-2026.md",
     "言葉/T2_30-03-2026.md",
+    "言葉/T3_31-03-2026.md",
+    "言葉/T6_200326.md",
+    "Phase 1 tasks/Branch strategy.md",
+    "Phase 1 tasks/基本設計/chia task.md",
     "Pasted image 20260326163840.png",
     "Pasted image 20260326163828.png",
     "Pasted image 20260326163658.png",
