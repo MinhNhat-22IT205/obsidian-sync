@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f90304fdbb6d7f9",
+  "active": "ef9393a58d648bc1",
   "lastOpenFiles": [
     "言葉/02-04-2026.md",
     "言葉/CN_29-03-2026.md",
