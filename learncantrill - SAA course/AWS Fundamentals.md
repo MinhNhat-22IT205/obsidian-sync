@@ -124,9 +124,9 @@ Term to understand:
 *How can we register a new domain?*
 ![[Pasted image 20260129160924.png]]
 + **Domain Registar** - where you ==pay for a domain== (Ex: GoDaddy, R53, Hover)
-+ **Registry / TLD operator** (the owner/operator of the TLD, e.g. .com is run by Verisign)
-+ **DNS hosting provider** (==provide server that contain **DNS Zone** (for the being-registered domain)== , e.g. Route53 hosted zone, Cloudflare DNS, etc.)
-+ ==A domain becomes usable when the **.com registry is told which *authoritative name servers (NS)* host the domain’s zone**==
++ **Registry / TLD operator** (the owner/operator of the TLD, e.g. .com is run by Verisign) - ==Chính là thực thể **.com Registry** ở giữa sơ đồ của HÌnh 1.== 
++ **DNS hosting provider** (provide server that contain **DNS Zone** (for the being-registered domain) , e.g. Route53 hosted zone, Cloudflare DNS, etc.) - ==Chính là cụm máy chủ **netflix.com DNS NS** ở góc trên bên phải của Hình 1.==
++ A domain becomes usable when the **.com registry is told which *authoritative name servers (NS)* host the domain’s zone**
 So: 
 + Pay for a domain - ex: *cats.com*
 + Need a **authoritative NS** for the being-registered domain - ex: *rita.ns.cloudflare.com*
@@ -148,12 +148,11 @@ So:
 These 3 things should be define
 
 *How to use Route53 for domain registry?*
-1. Register a **domain** 
-2. R53 create a zone file (abc.org) - contains all info about that registered domain + 4 NS
-3. Put the zone file into 4 NS
-4. Add 4 NS to TLD 
-
 Amazon Route 53 là một dịch vụ DNS rất linh hoạt vì nó đóng cả hai vai trò: **Registrar** (Nhà đăng ký tên miền) và **DNS Hosting Provider** (Nhà cung cấp dịch vụ máy chủ phân giải tên miền).
+- **Bước 1 & 2 - Domain Registrar (Nhà đăng ký):** Khi bạn muốn mua tên miền `cats.com`, bạn vào console của Route 53 để trả tiền. Lúc này Route 53 đóng vai trò là ngôi nhà màu hồng ở bên trái (**Domain Registrar**).
+- **Bước 2 & 3 - DNS Hosting Provider (Tạo Hosted Zone):** Sau khi mua, Route 53 tự động (hoặc bạn tự tạo) một "Hosted Zone". Đây chính là tòa nhà màu vàng phía dưới (**DNS Hosting Provider**). Tại đây, Route 53 sẽ cấp cho bạn 4 địa chỉ Name Servers (ví dụ: `ns-123.awsdns.com`).
+- **Bước 4 & 5 - Kết nối với TLD Registry:** Route 53 (với tư cách là Registrar) sẽ thay mặt bạn gửi thông tin 4 địa chỉ Name Servers đó lên **.com Registry** (nhà quản lý đuôi .com - tòa nhà màu hồng bên phải).
+    - Việc này giúp cập nhật vào cây DNS thế giới rằng: "Nếu ai hỏi về `cats.com`, hãy đến hỏi các máy chủ của Route 53".
 
 **8.2 Hosted Zones**
 + Private Hosted Zone: Có giá trị trong VPC (để các con ec2 giao tiếp với nhau, ko có giá trị giao tiếp với bên ngoài)
