@@ -153,6 +153,8 @@ These 3 things should be define
 3. Put the zone file into 4 NS
 4. Add 4 NS to TLD 
 
+Amazon Route 53 là một dịch vụ DNS rất linh hoạt vì nó đóng cả hai vai trò: **Registrar** (Nhà đăng ký tên miền) và **DNS Hosting Provider** (Nhà cung cấp dịch vụ máy chủ phân giải tên miền).
+
 **8.2 Hosted Zones**
 + Private Hosted Zone: Có giá trị trong VPC (để các con ec2 giao tiếp với nhau, ko có giá trị giao tiếp với bên ngoài)
 + Public Hosted Zone
