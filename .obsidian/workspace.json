@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "CN_29-03-2026"
             }
+          },
+          {
+            "id": "f907a9b8f5a1b54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,18 +208,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f90304fdbb6d7f9",
+  "active": "f907a9b8f5a1b54d",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
+    "言葉/CN_29-03-2026.md",
     "言葉/T3_31-03-2026.md",
     "言葉/T2_30-03-2026.md",
     "言葉/T6_200326.md",
     "learncantrill - SAA course/授業 - 1604.md",
     "learncantrill - SAA course/授業 - 1704.md",
-    "言葉/CN_29-03-2026.md",
     "言葉/02-04-2026.md",
     "Pasted image 20260416104932.png",
     "learncantrill - SAA course/Cloudfront.md",
-    "Untitled.canvas",
     "Communication/On a Datee.md",
     "Phase 1 tasks/Branch strategy.md",
     "Phase 1 tasks/基本設計/chia task.md",
