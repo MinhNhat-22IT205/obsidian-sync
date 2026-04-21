@@ -154,6 +154,8 @@ These 3 things should be define
 4. Add 4 NS to TLD 
 
 **8.2 Hosted Zones**
++ Private Hosted Zone: Có giá trị trong VPC (để các con ec2 giao tiếp với nhau, ko có giá trị giao tiếp với bên ngoài)
++ Public Hosted Zone
 **8.3 DNS Record Types**
 + NS
 + A(v4) & AAAA(v6)
