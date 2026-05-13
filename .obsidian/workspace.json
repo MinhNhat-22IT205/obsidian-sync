@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learncantrill - SAA course/授業 - 1604.md",
+                "file": "learncantrill - SAA course/AWS Account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "授業 - 1604"
+              "title": "AWS Account"
             }
           }
         ],
@@ -210,9 +210,12 @@
   },
   "active": "f907a9b8f5a1b54d",
   "lastOpenFiles": [
-    "learncantrill - SAA course/授業 - 1704.md",
-    "learncantrill - SAA course/授業 - 1604.md",
     "learncantrill - SAA course/AWS Fundamentals.md",
+    "learncantrill - SAA course/AWS Account.md",
+    "learncantrill - SAA course/Cloudfront.md",
+    "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
+    "learncantrill - SAA course/授業 - 1604.md",
+    "learncantrill - SAA course/授業 - 1704.md",
     "Untitled.md",
     "Untitled.canvas",
     "言葉/CN_29-03-2026.md",
@@ -221,14 +224,12 @@
     "言葉/T6_200326.md",
     "言葉/02-04-2026.md",
     "Pasted image 20260416104932.png",
-    "learncantrill - SAA course/Cloudfront.md",
     "Communication/On a Datee.md",
     "Phase 1 tasks/Branch strategy.md",
     "Phase 1 tasks/基本設計/chia task.md",
     "Pasted image 20260326163840.png",
     "Pasted image 20260326163828.png",
     "Pasted image 20260326163658.png",
-    "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
     "日本語勉強結果.md",
     "Phase 1 tasks/基本設計",
     "DACN3/MVP1 - Q&A.md",
@@ -250,7 +251,6 @@
     "Communication",
     "Pasted image 20260131093202.png",
     "Pasted image 20260131093130.png",
-    "learncantrill - SAA course/AWS Account.md",
     "UXUI/User requirement analysis.md",
     "UXUI",
     "create a link.md",
