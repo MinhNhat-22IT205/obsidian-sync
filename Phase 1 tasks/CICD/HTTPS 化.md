@@ -22,3 +22,8 @@ nginx['real_ip_recursive'] = 'on'
 # Tùy chọn: Redirect HTTP sang HTTPS (nếu cần)
 nginx['redirect_http_to_https'] = true
 ```
+Áp dụng thay đổi:
+```
+sudo gitlab-ctl reconfigure
+sudo gitlab-ctl restart
+```
