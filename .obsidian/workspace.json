@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learncantrill - SAA course/AWS Account.md",
+                "file": "learncantrill - SAA course/AWS Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Account"
+              "title": "AWS Fundamentals"
             }
           }
         ],
@@ -210,10 +210,10 @@
   },
   "active": "f907a9b8f5a1b54d",
   "lastOpenFiles": [
-    "learncantrill - SAA course/AWS Fundamentals.md",
     "learncantrill - SAA course/AWS Account.md",
     "learncantrill - SAA course/Cloudfront.md",
     "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
+    "learncantrill - SAA course/AWS Fundamentals.md",
     "learncantrill - SAA course/授業 - 1604.md",
     "learncantrill - SAA course/授業 - 1704.md",
     "Untitled.md",
