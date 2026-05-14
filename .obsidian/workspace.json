@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learncantrill - SAA course/AWS Fundamentals.md",
+                "file": "Phase 1 tasks/CICD/HTTPS 化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Fundamentals"
+              "title": "HTTPS 化"
             }
           }
         ],
@@ -210,10 +210,13 @@
   },
   "active": "f907a9b8f5a1b54d",
   "lastOpenFiles": [
+    "Phase 1 tasks/基本設計/Untitled.md",
+    "Phase 1 tasks/CICD/HTTPS 化.md",
+    "Phase 1 tasks/CICD",
+    "learncantrill - SAA course/AWS Fundamentals.md",
     "learncantrill - SAA course/AWS Account.md",
     "learncantrill - SAA course/Cloudfront.md",
     "learncantrill - SAA course/IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
-    "learncantrill - SAA course/AWS Fundamentals.md",
     "learncantrill - SAA course/授業 - 1604.md",
     "learncantrill - SAA course/授業 - 1704.md",
     "Untitled.md",
@@ -252,10 +255,8 @@
     "Pasted image 20260131093202.png",
     "Pasted image 20260131093130.png",
     "UXUI/User requirement analysis.md",
-    "UXUI",
     "create a link.md",
     "Welcome.md",
-    "Untitled 1.canvas",
-    "2026-01-23.md"
+    "Untitled 1.canvas"
   ]
 }
